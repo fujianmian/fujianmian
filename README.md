@@ -1,4 +1,7 @@
-## Hi there 👋
+## This is about me 👋
+
+## I’m currently working on web3 technology specify in solidity.
+## I'm currently studying Bachelor of Science (Hons) in Software Engineering at Asia Pacific University of Technology & Innovation (APU)
 
 <!--
 **fujianmian/fujianmian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
