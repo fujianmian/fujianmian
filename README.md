@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">This is Sean Hoe!<br><br>- 💻 I’m studying Software Engineering<br>- 📚 I'm currently learning Solana and Ethereum (smart contracts)<br>- 🌐 President of APU Hackthletes<br>- 🪙 Superteam Malaysia Guild Lead @ APU<br>- 🧗 Love bouldering and Dota 2<br>- 📩 Do contact me through my email seanhoekaizher@gmail.com</h4>
+<h4 align="left">This is Jun Yong!<br><br>- 💻 I’m studying Software Engineering<br>- 📚 I'm currently focusing on Flutter framework and Solidity<br>- 🌐 committee of APU Blockchain Club<br>- 🧗 Love COD series and Sekiro<br>- 📩 Do contact me through my email jun379e@gmail.com</h4>
 
 ###
 
