@@ -16,11 +16,11 @@
 ###
 
 <div align="left">
-  <img src="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_Logo_2023.svg" height="40" alt="C# logo"  />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(1).jpg" height="40" alt="C# logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(2).jpg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(2).png" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -28,11 +28,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(3).jpg" height="40" alt="R logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(8).png" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(6).png" height="40" alt="SQL logo"  />
+  <img width="12" />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(4).png" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(10).png" height="40" alt="Dart logo"  />
+  <img width="12" />
+  <img src="https://github.com/fujianmian/fujianmian/blob/main/download%20(11).png" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
