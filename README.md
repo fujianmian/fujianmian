@@ -1,7 +1,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-[//]: <> (this code is modified based on Seann2003 readme)
+[//]: <> (this code is modified based on Seann2003 and Ang-dot readme)
 
 
 
