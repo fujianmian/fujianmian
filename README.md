@@ -48,7 +48,7 @@
     <a href="mailto:jun379e@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
     </a>
-    <a href="www.linkedin.com/in/heng-jun-yong-815455349">
+    <a href="https://www.linkedin.com/in/heng-jun-yong-815455349">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
     </a>   
 </p>
