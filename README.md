@@ -43,4 +43,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
+## Contact 📫
+<p>
+    <a href="mailto:jun379e@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
+    </a>
+    <a href="www.linkedin.com/in/heng-jun-yong-815455349">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
+    </a>   
+</p>
 
+
+## Resume 📄
+<p>
+    <a href="https://drive.google.com/file/d/1mv4m_G9yu-9-2pgW0uOiCyb-hWnLKbWp/view?usp=sharing">
+        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
+    </a>
+</p>
